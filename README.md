@@ -8,7 +8,7 @@ To analyze key hospital performance metrics — such as emergency admissions, su
 
 ## 🛠️ Stack
 
-- SQL Server / PostgreSQL (your choice)
+- SQL Server 
 - Python (for optional data extraction from API)
 - Public dataset: AIHW MyHospitals API
 
